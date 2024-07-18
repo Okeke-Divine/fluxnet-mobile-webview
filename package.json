@@ -1,0 +1,25 @@
+{
+  "name": "io.cordova.fluxnet",
+  "displayName": "Fluxnet",
+  "version": "1.0.0",
+  "description": "Fluxnet is a powerful, free inventory management app designed for small businesses. Streamline your stock control, enhance accuracy, and save time with our intuitive solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Okeke Divine-Vessel",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^13.0.0",
+    "cordova-ios": "^7.1.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
